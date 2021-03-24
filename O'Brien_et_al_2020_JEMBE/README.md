@@ -9,7 +9,7 @@ Data collection was funded and supported by the Center for Ocean Research and Ed
 ## Structure
 Replicate - abbreviation of site name and replicate number.
 
-Site - the sampled sites within Sweetings Pond: 'Caves','Control','Grouper Cave', 'Octopus Den' (renamed as 'Emmas') and 'Quarry'.
+Site - the sampled sites within Sweetings Pond: 'Caves', 'Control', 'Grouper Cave', 'Octopus Den' (renamed as 'Emmas') and 'Quarry'.
 
 Human_disturbance - whether the site is experiencing consistent human disturbance in the form of tourist traffic and/or agriculture.
 
