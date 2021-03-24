@@ -1,6 +1,7 @@
 # Introduction
 
 Data from O’Brien, D.A., Taylor, M.L., Masonjones, H.D., Boersch-Supan, P.H., O’Shea, O.R., 2020. Drivers of octopus abundance and density in an anchialine lake: A 30 year comparison. Journal of Experimental Marine Biology. 528:151377. doi:10.1016/j.jembe.2020.151377.
+
 This raw data provides the input for generalised linear models predicting octopus counts across the Sweetings Pond ecosystem and yearly densities, as well as qualitative assessment of benthic diversity.
 
 ## Funding
