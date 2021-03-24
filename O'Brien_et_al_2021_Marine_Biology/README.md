@@ -33,7 +33,7 @@ Octopus_presence - number of octopus occupying the den (the response variable fo
 
 prop_struc_colonised - proportion of the den unit occupied by octopus.
 
-LC_cover - percentage cover of Laurencia. sp.
+LC_cover - percentage cover of _Laurencia_ sp.
 
 S_cover - percentage cover of sediment.
 
@@ -41,12 +41,12 @@ CR_cover - percentage cover of calcareous rubble.
 
 F_cover - percentage cover of floccullant.
 
-HY_cover - percentage cover of Hypnea. sp.
+HY_cover - percentage cover of _Hypnea_ sp.
 
-CS_cover - percentage cover of Caulerpa sertularioides.
+CS_cover - percentage cover of _Caulerpa sertularioides_.
 
-MO_cover - percentage cover of Mytilopsis. sp.
+MO_cover - percentage cover of _Mytilopsis_ sp.
 
-PO_cover - percentage cover of Pinctada radiata.
+PO_cover - percentage cover of _Pinctada radiata_.
 
 Identifier - individual den identifier code to act as random effect.
