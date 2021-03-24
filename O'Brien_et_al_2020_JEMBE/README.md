@@ -21,7 +21,7 @@ Longitiude - latitude in WGS84 projection.
 
 Date - day/month/year.
 
-Month - month
+Month - month.
 
 Average_depth - mean depth from surface in metres of the 30x30m quadrat.
 
@@ -31,7 +31,7 @@ Quarry_distance - distance to 'Quarry' public access point in metres.
 
 Closest_entrance - distance to closest public access point in metres
 
-Octopus_abundance - count of octopus occupying within the 30x30m quadrat replicate.
+Octopus_abundance - count of octopus observed within the 30x30m quadrat replicate.
 
 Total_den_abundance - count of available dens within the 30x30m quadrat replicate.
 
