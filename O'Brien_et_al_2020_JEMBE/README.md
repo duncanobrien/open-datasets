@@ -18,7 +18,7 @@ Access - whether the site has a 'Public' or 'None' access to the water.
 
 Latitude - latitude in WGS84 projection.
 
-Longitiude - latitude in WGS84 projection.
+Longitiude - longitiude in WGS84 projection.
 
 Date - day/month/year.
 
