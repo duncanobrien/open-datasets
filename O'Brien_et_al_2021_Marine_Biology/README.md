@@ -10,7 +10,7 @@ Data from O’Brien, D.A., Taylor, M.L., Masonjones, H.D., Boersch-Supan, P.H., 
 This raw data provides the input for the generalised linear models and generalised linear mixed effect models predicting octopus occupation of artificial dens.
 
 ## Funding
-Data collection was funded and supported by the Center for Ocean Research and Education (https://www.coresciences.org).
+Data collection was funded and supported by the Centre for Ocean Research and Education (https://www.coresciences.org).
 
 ## Structure
 Replicate - abbreviation of site name and replicate number.
