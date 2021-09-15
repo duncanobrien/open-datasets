@@ -13,7 +13,7 @@ Site - the sampled sites within Sweetings Pond: 'Grouper Cave' and 'Emmas' (f.k.
 
 Latitude - latitude in WGS84 projection.
 
-Longitiude - longitiude in WGS84 projection.
+Longitiude - longitude in WGS84 projection.
 
 Date - day/month/year.
 
