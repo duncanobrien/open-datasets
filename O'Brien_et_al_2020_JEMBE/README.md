@@ -1,8 +1,6 @@
 <p align="left">
-<img src="https://user-images.githubusercontent.com/79991977/133446456-08ef4721-9178-40e3-a549-4fe1fa2ead39.JPG" width="500">
+<img src="https://user-images.githubusercontent.com/79991977/133446784-cb1d4774-b4ba-48ce-bc7f-9f0d1cbaed97.JPG" width="200",height="500">
 </p>
-
-
 
 ## Introduction
 
