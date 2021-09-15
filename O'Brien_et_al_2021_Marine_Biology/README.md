@@ -1,4 +1,9 @@
-# Introduction
+<p align="left">
+<img src="https://user-images.githubusercontent.com/79991977/133443384-885da95c-10ca-44bf-94fe-9e2a702e8a8c.JPG" width="200">
+</p>
+
+
+## Introduction
 
 Data from O’Brien, D.A., Taylor, M.L., Masonjones, H.D., Boersch-Supan, P.H., O’Shea, O.R., 2021. An experimental assessment of social tolerance and den ecology in a high-density octopus population. _Marine Biology_. https://doi.org/10.1007/s00227-021-03865-4
 
