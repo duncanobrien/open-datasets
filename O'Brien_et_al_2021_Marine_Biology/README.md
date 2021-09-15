@@ -1,6 +1,6 @@
 # Introduction
 
-Data from O’Brien, D.A., Taylor, M.L., Masonjones, H.D., Boersch-Supan, P.H., O’Shea, O.R., 2021. An experimental assessment of social tolerance and den ecology in a high-density octopus population. Marine Biology.
+Data from O’Brien, D.A., Taylor, M.L., Masonjones, H.D., Boersch-Supan, P.H., O’Shea, O.R., 2021. An experimental assessment of social tolerance and den ecology in a high-density octopus population. _Marine Biology_. https://doi.org/10.1007/s00227-021-03865-4
 
 This raw data provides the input for the generalised linear models and generalised linear mixed effect models predicting octopus occupation of artificial dens.
 
