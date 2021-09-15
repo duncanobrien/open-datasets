@@ -9,7 +9,7 @@ Data from O’Brien, D.A., Masonjones, H.D., Bethel, E., O’Shea, O.R., 2021. N
 This raw data provides the input for the generalised linear models and ordination analyses comparing day-night periods and sites.
 
 ## Funding
-Data collection was funded and supported by the Center for Ocean Research and Education (https://www.coresciences.org).
+Data collection was funded and supported by the Centre for Ocean Research and Education (https://www.coresciences.org).
 
 ## Structure
 Replicate - sampling replicate number. Typically three BRUV units were deployed per replicate.
