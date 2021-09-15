@@ -1,4 +1,8 @@
-# Introduction
+<p align="left">
+<img src="https://user-images.githubusercontent.com/79991977/133447359-1288b946-1f9d-42ff-9bc7-bbbd342fc988.png" width="400">
+</p>
+
+## Introduction
 
 Data from O’Brien, D.A., Masonjones, H.D., Bethel, E., O’Shea, O.R., 2021. Nocturnal surveys reveal novel insights into the community dynamics of an anchialine ecosystem from The Bahamas. _Estuarine, Coastal & Shelf Science_.
 
