@@ -9,7 +9,7 @@ Data from O’Brien, D.A., Taylor, M.L., Masonjones, H.D., Boersch-Supan, P.H., 
 This raw data provides the input for generalised linear models predicting octopus counts across the Sweetings Pond ecosystem and yearly densities, as well as qualitative assessment of benthic diversity.
 
 ## Funding
-Data collection was funded and supported by the Center for Ocean Research and Education (https://www.coresciences.org).
+Data collection was funded and supported by the Centre for Ocean Research and Education (https://www.coresciences.org).
 
 ## Structure
 Replicate - abbreviation of site name and replicate number.
