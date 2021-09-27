@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Data from O’Brien, D.A., Masonjones, H.D., Bethel, E., O’Shea, O.R., 2021. Nocturnal surveys reveal novel insights into the community dynamics of an anchialine ecosystem from The Bahamas. _Estuarine, Coastal & Shelf Science_.
+Data from O’Brien, D.A., Masonjones, H.D., Bethel, E., O’Shea, O.R., 2021. Nocturnal surveys reveal novel insights into the community dynamics of an anchialine ecosystem from The Bahamas. _Estuarine, Coastal & Shelf Science_. https://doi.org/10.1016/j.ecss.2021.107588
 
 This raw data provides the input for the generalised linear models and ordination analyses comparing day-night periods and sites.
 
