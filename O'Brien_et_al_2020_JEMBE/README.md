@@ -12,7 +12,7 @@ This raw data provides the input for generalised linear models predicting octopu
 Data collection was funded and supported by the Centre for Ocean Research and Education (https://www.coresciences.org).
 
 ## Structure
-Replicate - abbreviation of site name and replicate number.
+Replicate - abbreviation of site name and replicate number. QArray and CVArray refers to artifical experiment arrays that may attact/repel octopus.
 
 Site - the sampled sites within Sweetings Pond: 'Caves', 'Control', 'Grouper Cave', 'Octopus Den' (renamed as 'Emmas') and 'Quarry'.
 
